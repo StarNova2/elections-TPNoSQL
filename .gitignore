@@ -1,1 +1,10 @@
 \.venv\
+<<<<<<< HEAD
+data/
+data\candidats-2026.csv
+data\communes.csv
+data\departements-france.csv
+data\regions-france.csv
+=======
+data/
+>>>>>>> 7f2cfb8 (added correct files with python file)
